@@ -3,10 +3,6 @@
   "name": "openvibe-worker",
   "main": "src/index.ts",
   "compatibility_date": "2026-03-17",
-  "assets": {
-    "binding": "ASSETS",
-    "directory": "./public",
-  },
   "observability": {
     "enabled": true,
   },
