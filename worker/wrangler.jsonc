@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "worker",
+  "name": "openvibe-worker",
   "main": "src/index.ts",
   "compatibility_date": "2026-03-17",
   "assets": {
