@@ -31,7 +31,7 @@ OpenVibe is an open-source, full-stack SaaS starter kit built for vibe coders â€
 ## Roadmap
 
 - [x] Project setup (Next.js + Hono + Cloudflare)
-- [ ] Better Auth integration
+- [x] Better Auth integration
 - [ ] Polar subscription integration
 - [ ] Landing page template
 - [ ] Pricing page template
