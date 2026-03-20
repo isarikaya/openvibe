@@ -3,8 +3,16 @@
   "name": "openvibe-worker",
   "main": "src/index.ts",
   "compatibility_date": "2026-03-17",
+  "compatibility_flags": ["nodejs_compat"],
   "observability": {
     "enabled": true,
   },
-  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "openvibe-db",
+      "database_id": "b5319eb7-71fe-4c3e-8127-57dd22575318",
+      "migrations_dir": "prisma/migrations"
+    },
+  ],
 }
